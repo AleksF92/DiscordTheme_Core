@@ -1,0 +1,10 @@
+/* Aligns status overflow section with Channel-layout */
+.panels_c48ade {
+    left: unset !important;
+    right: var(--space-xs) !important;
+    width: calc(var(--custom-guild-sidebar-width) - var(--custom-guild-list-width) - (var(--space-xs) * 2)) !important;
+}
+
+.visual-refresh {
+    --custom-guild-list-padding: var(--space-md) / 2;
+}

@@ -1,0 +1,44 @@
+.scrollerBase__99f8c, .managedReactiveScroller_d125d2, .scrollerBase_d125d2 {
+    --scrollbar-thin-thumb: var(--ledii-theme-highlight-frame) !important;
+    --scrollbar-auto-thumb: var(--ledii-theme-highlight-frame) !important;
+}
+
+.visual-refresh {
+    /* Background frames */
+    --__header-bar-background: var(--ledii-theme-background) !important;
+    --background-base-lowest: var(--ledii-theme-background) !important;
+    --background-base-lower: var(--ledii-theme-background) !important;
+    --background-base-low: var(--ledii-theme-background) !important;
+    --background-base-highest: var(--ledii-theme-background) !important;
+    --background-base-higher: var(--ledii-theme-background) !important;
+    --background-base-high: var(--ledii-theme-background) !important;
+    --background-surface-highest: var(--ledii-theme-background) !important;
+    --background-surface-higher: var(--ledii-theme-background) !important;
+    --background-surface-high: var(--ledii-theme-background) !important;
+    --bg-base-primary: var(--ledii-theme-background) !important;
+    --bg-base-secondary: var(--ledii-theme-background) !important;
+    --bg-base-tertiary: var(--ledii-theme-background) !important;
+    --background-primary: var(--ledii-theme-background) !important;
+    --background-secondary: var(--ledii-theme-background) !important;
+    --background-tertiary: var(--ledii-theme-background) !important;
+    /* Foreground frames */
+    --chat-background-default: var(--ledii-theme-foreground) !important;
+    --button-secondary-background: var(--ledii-theme-foreground) !important;
+    /* Highlight frames */
+    --bg-brand: var(--ledii-theme-highlight-frame) !important;
+    *--interactive-hover: var(--ledii-theme-highlight-frame) !important;
+    --background-message-hover: var(--ledii-theme-highlight-frame) !important;
+    /* Highlight text */
+    --text-brand: var(--ledii-theme-highlight-text) !important;
+    --channels-default: var(--ledii-theme-highlight-text) !important;
+    --channel-icon: var(--ledii-theme-highlight-text) !important;
+    --background-modifier-selected: var(--ledii-theme-highlight-frame) !important;
+    --background-mod-normal: var(--ledii-theme-highlight-frame) !important;
+    /* Muted text */
+    --interactive-muted: var(--ledii-theme-muted) !important;
+    --icon-muted: var(--ledii-theme-muted) !important;
+}
+
+.container__9293f {
+    background: var(--ledii-theme-background) !important;
+}

@@ -1,0 +1,16 @@
+/* Applies square theme */
+* {
+    border-radius: 0px !important;
+}
+
+.avatar_c19a55, .avatarSpeaking__44b0c, .avatar__07f91 {
+    border-radius: 50% !important;
+}
+
+.guilds_c48ade * {
+    mask: none !important;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 0px !important;
+}
