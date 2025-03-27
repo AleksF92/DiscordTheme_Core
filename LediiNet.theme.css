@@ -1,0 +1,25 @@
+/**
+  * @name LediiNet Core
+  * @author Ledii
+  * @version RN.1
+  * @description A simplistic theme with focus on clean layout flow and customization.
+  * @website https://ledii.net
+*/
+
+
+
+/* Features (comment out if you want to disable) */
+@import url('https://raw.githubusercontent.com/AleksF92/DiscordTheme_Core/refs/heads/main/SquareCorners.css');
+@import url('https://raw.githubusercontent.com/AleksF92/DiscordTheme_Core/refs/heads/main/ThemeColors.css');
+@import url('https://raw.githubusercontent.com/AleksF92/DiscordTheme_Core/refs/heads/main/UserStatusPadding.css');
+
+
+
+/* Applies theme colors */
+:root {
+    --ledii-theme-background: #101010;
+    --ledii-theme-foreground: #303030;
+    --ledii-theme-highlight-frame: #540C97;
+    --ledii-theme-highlight-text: #912DED;
+    --ledii-theme-muted: #404040;
+}
